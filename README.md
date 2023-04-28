@@ -4,4 +4,4 @@ A command-line tool to manage a personal library of books. Features include addi
 
 You can use this as a starting point and modify it to better fit your project's goals and features.
 
-"Note: When you stop the program, all the data that you have saved in the created file will be lost permanently, and there's no way to recover it." So, make sure to keep a backup of your data to avoid any loss. "
+"Note: When you stop the program, all the data that you have saved in the created file will be lost permanently, and there's no way to recover it. So, make sure to keep a backup of your data to avoid any loss. "
