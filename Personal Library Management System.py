@@ -1,6 +1,4 @@
 import os
-from collections import Counter
-import queue
 
 
 # Save All List/Directory Data Into A Created File
