@@ -20,7 +20,7 @@ def Duplicates_File():
     return l.books
 
 
-AllBooks = ['rings', 'heart', 'king']
+AllBooks = ['The 5 AM Club', 'Atomic Habits', 'Rich Dad, Poor Dad']
 
 class library:
     # books = AllBooks
