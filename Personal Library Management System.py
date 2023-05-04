@@ -23,7 +23,6 @@ def Duplicates_File():
 AllBooks = ['The 5 AM Club', 'Atomic Habits', 'Rich Dad, Poor Dad']
 
 class library:
-    # books = AllBooks
     def __init__(self):
         self.books = list(set(AllBooks))
 
@@ -46,8 +45,7 @@ class library:
         b = input("\nEnter The Name Of The Book You Want To Remove: ")
         self.books.remove(b)
         print(f"\n{Duplicates_File()}\n\nYour Book '{b}' Removed Successfully")
-        # Remove duplicates.
-        # self.books = Duplicates_File()
+
         # Save changes to file
         sfile(self.books)
 
