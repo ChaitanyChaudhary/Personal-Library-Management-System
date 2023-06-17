@@ -10,7 +10,7 @@ The Personal Library Management System is a command-line program written in Pyth
 - Saving the list of books to a file
 
 ## Installation Instructions
-1. Clone the repository: `git clone https://github.com/your-username/personal-library-management-system.git`
+1. Clone the repository: `https://github.com/ChaitanyChaudhary/Personal-Library-Management-System.git`
 2. Navigate to the project directory: `cd personal-library-management-system`
 ## Usage Guide
 1. Run the program by executing the following command: `python personal-library-management-system.py`
