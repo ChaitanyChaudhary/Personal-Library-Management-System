@@ -14,7 +14,7 @@ Web-based personal library manager built with Python Flask and HTML. Add, remove
 
 2. **Clone the Repository:** Use git to clone this repository to your local machine:
 ```bash
-  git clone https://<your_github_repository_url>.git
+  git clone https://github.com/ChaitanyChaudhary/Personal-Library-Management-System.git
 ```
 
 3. **Install Dependencies:** Navigate to the project directory and install required dependencies using pip:
